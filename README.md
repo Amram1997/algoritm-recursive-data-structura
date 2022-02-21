@@ -35,3 +35,18 @@ given array. (without using arr.shift())
 function that concats arrays).
 
 [Solution](./flattens.js)
+
+---
+
+6.Given an array and a number N. Write a recursive function that rotates an array N
+places to the left. (Hint: to add element to the beginning use arr.unshift()).
+
+[Solution](./rotateArray.js)
+
+---
+
+7.Given a number. Write a function that calculates its sum of the digits and if that sum has
+more than 1 digit find the sum of digits of that number. Repeat that process if needed
+and return the result.
+
+[Solution](./sumDigits.js)
